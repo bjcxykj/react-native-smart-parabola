@@ -6,7 +6,6 @@
  */
 
 import React, {
-    PropTypes,
     Component,
 } from 'react'
 import {
@@ -15,6 +14,7 @@ import {
     Text,
     Dimensions,
 } from 'react-native'
+import PropTypes from 'prop-types'
 
 export default class Parabola extends Component {
 
